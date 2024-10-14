@@ -1,1 +1,14 @@
-
+100
+PIN: 111
+Error! Invalid pin. Try again.
+PIN: 1234
+Amount: 50.0
+Current balance: 150.0
+Amount: 200.0
+Error! Insufficient balance to complete withdraw.
+100
+PIN: 1234
+Amount: 50.0
+Current balance: 150.0
+Amount: 10.0
+Current balance: 140.0
